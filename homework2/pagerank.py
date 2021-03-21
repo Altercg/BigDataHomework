@@ -1,4 +1,4 @@
-
+# 迭代法
 import numpy as np
 
 d = 0.8

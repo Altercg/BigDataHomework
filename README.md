@@ -1,2 +1,2 @@
-big_data_home
-pagerank and svm
+# big_data_home
+# pagerank and svm
